@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+/* .list-custom {
+  --list-color: #61DAFB;
+
+} */
+li::marker{
+  color: #61dafb;
+  font-size: 24px;
+  }
+  ul{
+  
+    /* font-family: 'poppins'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+  
+    color: #FFFFFF;
+  }
+
+  h1{
+    /* position: absolute;
+      width: 424px;
+      height: 41px;
+      left: 27px;
+      top: 148px; */
+    
+      /* font-family: 'poppins'; */
+      font-style: normal;
+      font-weight: 700;
+      font-size: 39.06px;
+      line-height: 47px;
+      letter-spacing: -0.05em;
+    
+      color: #FFFFFF;
+  }
